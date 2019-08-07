@@ -1,0 +1,66 @@
+body {
+	background-image: url("https://www.techandall.com/wp-content/uploads/2013/10/techandall_wallpaper_1.jpg");
+	/* background-repeat: no-repeat; */ 
+	background-position: center;
+	background-size: 2000px 2000px;
+
+}
+
+.headinga{
+	color: rgb(255, 0, 255);
+	font-size: 100px;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.headingb{
+	color: rgb(255, 155, 255);
+	font-size:75px;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.legal_notice{
+	color: rgb(0, 0, 0);
+	font-size:24px;
+	text-align: center;
+	font-family: 'Libre Caslon Text', serif;
+}
+
+.place_holder{
+	color: rgb(0, 0, 0);
+	font-size: 18px;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.subheadinga {
+	color: rgb(55, 0, 55);
+	font-size: 24px;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+
+.controls {
+	color: rgb(0, 0, 0);
+	font-size: 18px;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+
+}
+
+h1.border {
+	border-style: inset;
+	border-color: RGB(55, 0, 55);
+}
+
+p.inset {
+	border-style: inset;
+}
+
+p.solid {
+	border-style: solid;
+	border-color: rgb(255, 220, 255)
+}
+
+
